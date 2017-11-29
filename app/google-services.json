@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "511098371925",
+    "firebase_url": "https://rbrauwerstest.firebaseio.com",
+    "project_id": "rbrauwerstest",
+    "storage_bucket": "rbrauwerstest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511098371925:android:d46b3edae3fcc900",
+        "android_client_info": {
+          "package_name": "com.rodrigobrauwers.unit_tests"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511098371925-odr3qfpi2av42p5mn5mfkcb1p0igi5h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJbfCNW5fi1wj1XexaYSuoPLRGXaoLywE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
